@@ -1,0 +1,22 @@
+Link para download do Git: https://git-scm.com/downloads
+
+O Git Bash é um terminal extendido para otmizar ouso do Git.
+
+Comandos básicos para um bom desempenho:
+ -cd (permite navegar nas pastas)
+ -dir ou ls (listas)
+ -mkdir (criar pastas/ diretorios)
+ -cd .. (para retroceder)
+ -Ctrl + L (limpar a tela)
+ -Tab (completar)
+ -echo (printar)
+ -rmdir (deleta a pasta inteira)
+ -git init
+ -git add
+ -git commit 
+ -git status
+
+Objetos internos do Git:
+ -Blobs
+ -Trees 
+ - Commit
